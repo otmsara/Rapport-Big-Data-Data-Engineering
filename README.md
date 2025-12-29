@@ -143,5 +143,3 @@ spark.sql("SELECT level, COUNT(*) FROM logs GROUP BY level").show()
 **Module :** Big Data / Data Engineering
 **Encadrant :** Hassan BADIR
 **Année :** 2025–2026
-
-```
