@@ -124,7 +124,7 @@ spark.sql("SELECT level, COUNT(*) FROM logs GROUP BY level").show()
 ## Livrables du projet
 
 1. **Code source complet** (Scala / Spark)
-2. **Rapport** (PDF / DOCX) : explication du pipeline, architecture, résultats, captures d’écran
+2. **Rapport** (PDF) : explication du pipeline, architecture, résultats, captures d’écran
 3. **PPTX** : présentation synthétique pour l’oral
 
 ---
@@ -139,7 +139,5 @@ spark.sql("SELECT level, COUNT(*) FROM logs GROUP BY level").show()
 
 ## Auteur
 
-**Nom :** Sara El-otmani 6 Kenza El hariri
-**Module :** Big Data / Data Engineering
-**Encadrant :** Hassan BADIR
+**Nom :** Sara El-otmani & Kenza El hariri
 **Année :** 2025–2026
